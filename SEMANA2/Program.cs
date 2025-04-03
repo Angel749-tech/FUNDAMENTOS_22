@@ -10,7 +10,7 @@ namespace SEMANA2
     {
         static void Main(string[] args)
         {
-            Console.Write("HOLA");
+            Console.Write("HOLAADIOS");
         }
     }
 }
